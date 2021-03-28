@@ -5,5 +5,5 @@
 
 I am a tech enthusiast, currently pursuing B.Tech in Computer Engineering at COEP.  
 Moreover, I am Competetive Programmer with a 3 :star2: rating at CodeChef (max 1634).  
-Apart from Computer Science, Mathematics and Physics are the one that melt me down.
+Apart from Computer Science, Mathematics and Physics are the one that melt me down. 
 I have Recently Qualified for Google Code Jam Round1 by clearing the Qualification round.
