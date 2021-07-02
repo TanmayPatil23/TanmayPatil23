@@ -1,4 +1,4 @@
-### 👋 Hi There, I’m Tanmay Patil. CSE Undergrad at College of Engineering, Pune (COEP) :india:
+## 👋 Hi There, I’m Tanmay Patil. CSE Undergrad at College of Engineering, Pune (COEP) :india:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TanmayPatil23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/tanmay-patil-0785501b4)
@@ -8,11 +8,29 @@
 
 ### Programming languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=F7DF1E)
+
+<br />
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
+
+<br />
+
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
+<br />
+
 ![Django](https://img.shields.io/badge/-Django-336791?style=flat-square&logo=django&color=092E20)
+
+<br />
+
 ![Flask](https://img.shields.io/badge/-Flask-E10098?style=flat-square&logo=flask&logoColor=ffffff&color=000000)
+
+<br />
+
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
+
+<br />
+
 ### Programming languages and tools I'm comfortable with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
