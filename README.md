@@ -14,6 +14,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-E10098?style=flat-square&logo=flask&logoColor=ffffff&color=000000)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ### Programming languages and tools I'm comfortable with:
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C%20\(Programming%20Language\)-CC342D?style=flat-square&logo=C&logoColor=ffe8e8)
 ![C++](https://img.shields.io/badge/-++-%23F7DF1C?style=flat-square&logo=C&logoColor=ffffff&color=00599c)
@@ -23,4 +24,10 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff&color=E95420)
 
-### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, Mathematics and Physics are the one that I like to engage in.  
+#### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, Mathematics and Physics are the one that I like to engage in.  
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=andipro123&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andipro123&layout=compact&hide=Jupyter%20Notebook" alt="top-langs" width="42%" height="auto"/>
+</p>
