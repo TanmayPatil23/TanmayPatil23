@@ -29,5 +29,5 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil23&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayPatil23&layout=compact&hide=Jupyter%20Notebook" alt="top-langs" width="50%" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayPatil23&layout=compact&hide=Jupyter%20Notebook" alt="top-langs" width="40%" height="auto"/>
 </p>
