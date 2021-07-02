@@ -27,7 +27,7 @@
 #### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, Mathematics and Physics are the one that I like to engage in.  
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=andipro123&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil23&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andipro123&layout=compact&hide=Jupyter%20Notebook" alt="top-langs" width="42%" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayPatil23&layout=compact&hide=Jupyter%20Notebook" alt="top-langs" width="50%" height="auto"/>
 </p>
