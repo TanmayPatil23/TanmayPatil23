@@ -1,4 +1,4 @@
-## 👋 Hi There, I’m Tanmay Patil. CSE Undergrad at College of Engineering, Pune (COEP) :india:
+### 👋 Hi There, I’m Tanmay Patil. CSE Undergrad at College of Engineering, Pune (COEP) :india:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TanmayPatil23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/tanmay-patil-0785501b4)
@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TanmayPatil23.TanmayPatil23)
 
 
-### Programming languages and tools I'm learning:
+#### Programming languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=F7DF1E)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
@@ -18,7 +18,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 
 
-### Programming languages and tools I'm comfortable with:
+#### Programming languages and tools I'm comfortable with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Numpy](https://img.shields.io/badge/-numpy-E10098?style=flat-square&logo=numpy&logoColor=ffffff&color=013243)
@@ -33,7 +33,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff&color=E95420)
 
-#### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, `Mathematics` and `Physics` are the one that I like to engage in.  
+###### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, `Mathematics` and `Physics` are the one that I like to engage in.  
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil23&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%"/>
