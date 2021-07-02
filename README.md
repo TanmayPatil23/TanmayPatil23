@@ -33,7 +33,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff&color=E95420)
 
-#### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, Mathematics and Physics are the one that I like to engage in.  
+#### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, `Mathematics` and `Physics` are the one that I like to engage in.  
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayPatil23&show_icons=true&count_private=true&include_all_commits=true" alt="stats" width="50%"/>
