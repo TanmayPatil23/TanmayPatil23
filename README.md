@@ -23,4 +23,4 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff&color=E95420)
 
-# 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, Mathematics and Physics are the one that I like to engage in.  
+### 👀 Fun Fact : I always look forward to learn new things, more profoundly if related to tech world. Apart from Computer Science, Mathematics and Physics are the one that I like to engage in.  
