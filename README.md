@@ -1,4 +1,4 @@
-### 👋 Hi There, I’m Tanmay Patil. CSE Undergrad at College of Engineering, Pune (COEP) :india:
+### 👋 Hi There, I’m Tanmay Patil. Sofware Engineer at Deutsche Bank :india:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TanmayPatil23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/tanmay-patil-0785501b4)
